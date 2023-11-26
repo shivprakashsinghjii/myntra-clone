@@ -1,0 +1,41 @@
+.flex{
+  display: flex;
+}
+.items-center{
+  align-items: center;
+}
+.justify-center{
+  justify-content: center;
+}
+.bold{
+  font-weight:bold;
+  font-size:13px;
+}
+.space-between{
+  justify-content:space-between;
+}
+.search{
+  width: 20vw;
+  padding: 7px 17px;
+  border: 0.5px solid grey;
+  background:#ffffff ;
+  border-radius: 5px;
+}
+.offer{
+  text-align: center;
+  font-size: 40px;
+}
+footer{
+  color: rgb(56, 55, 55);
+  text-align: center;
+  padding: 10px 10vw;
+  background:#ffffff ;
+}
+footer p,li {
+  font-size: 13px;
+  text-align: left;
+
+}
+sup{
+  color:rgb(224, 52, 110);
+}
