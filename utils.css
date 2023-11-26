@@ -39,3 +39,8 @@ footer p,li {
 sup{
   color:rgb(224, 52, 110);
 }
+@media (max-width:950px){
+  .search{
+    width: auto;
+  }
+}
