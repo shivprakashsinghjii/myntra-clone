@@ -89,8 +89,8 @@ footer h3{
     margin: 12px;
   }
 }
-@media (min-width:950px){
+@media (max-width:372px){
    .container{
-    margin-left: 40px;
+    margin-right: 40px;
    }
 }
